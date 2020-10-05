@@ -23,7 +23,7 @@ Llista amb sub temes:
 * Tema 1
   * Subtema 1
 
-http://github.com - automatic!
+Fem que un text contingui un link: http://github.com - automatic!
 [GitHub](http://github.com)
 
 Pots mostrar la
