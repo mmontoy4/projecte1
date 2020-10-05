@@ -16,7 +16,7 @@ I ara una llista ordenda:
 1. Hola
 2. Que
 3. Tal
-4. ?
+4. ? :blush:
 
 Llista amb sub temes:
 
