@@ -26,5 +26,5 @@ Llista amb sub temes:
 http://github.com - automatic!
 [GitHub](http://github.com)
 
-I think you should use an
-`<addr>` element here instead.
+Pots mostrar la
+`<etiqueta>` HTML diferent.
